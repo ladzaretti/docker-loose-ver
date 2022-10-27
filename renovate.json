@@ -1,6 +1,8 @@
 {
-  "matchPackageNames": [
-    "eclipse-temurin"
-  ],
-  "versioning": "loose"
+  "packageRules": [
+    {
+      "matchPackageNames": ["eclipse-temurin"],
+      "versioning": "loose"
+    }
+  ]
 }
