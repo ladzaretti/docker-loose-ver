@@ -2,7 +2,7 @@
   "packageRules": [
     {
       "matchPackageNames": ["eclipse-temurin"],
-      "versioning": "coerce"
+      "versioning": "semver-coerced"
     }
   ]
 }
